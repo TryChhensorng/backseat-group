@@ -1,3 +1,2 @@
 def replace_last(numbers):
-    #hii im trychennsorng
     ...
